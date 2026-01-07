@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Devashree! 👋
 
-<!--
-**dbuch1707/dbuch1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experienced Data Analyst | Cybersecurity & Cloud Data Specialist
+I am a Data Analyst with 4+ years of experience building data-driven solutions. My expertise lies in bridging the gap between raw data and actionable business insights, specifically within the **FinTech** and **Cybersecurity** domains.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolbox
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MS-SQL), Java
+- **Cloud & Big Data:** AWS (S3, Redshift, Lambda, Glue), Snowflake, Databricks, PySpark
+- **BI & Visualization:** Tableau, Power BI, AWS QuickSight
+- **Tools:** Git, JIRA, Jupyter Notebooks
+
+---
+
+### 📈 Professional Highlights
+- **Financial Services (Capital One):** Developed ETL pipelines in Databricks and validated cybersecurity controls for enterprise-scale data lakes.
+- **Process Optimization:** Consistently reduced data processing times (up to 25%) and improved model accuracy (by 13%) through advanced feature engineering and automation.
+- **Certifications:** IBM Apache Spark for Data Engineering & Machine Learning.
+
+---
+
+### 🤝 Let's Connect!
+- [LinkedIn] (https://www.linkedin.com/in/devashree-buch/)
+- 📍 Based in: San Diego, CA (Open to Remote)
