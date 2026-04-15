@@ -1,13 +1,13 @@
 # Hi, I'm Devashree! 👋
 
 ### Experienced Data Analyst | Cybersecurity & Cloud Data Specialist
-I am a Data Analyst with 4+ years of experience building data-driven solutions. My expertise lies in bridging the gap between raw data and actionable business insights, specifically within the **FinTech** and **Cybersecurity** domains.
+I am a Data Analyst with 5+ years of experience building data-driven solutions. My expertise lies in bridging the gap between raw data and actionable business insights, specifically within the **FinTech** and **Cybersecurity** domains.
 
 ---
 
 ### 🛠️ Technical Toolbox
 - **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MS-SQL), Java
-- **Cloud & Big Data:** AWS (S3, Redshift, Lambda, Glue), Snowflake, Databricks, PySpark
+- **Cloud & Big Data:** AWS (S3, Redshift, Lambda, Glue, Sagemaker), Snowflake, Databricks, PySpark
 - **BI & Visualization:** Tableau, Power BI, AWS QuickSight
 - **Tools:** Git, JIRA, Jupyter Notebooks
 
@@ -22,4 +22,4 @@ I am a Data Analyst with 4+ years of experience building data-driven solutions. 
 
 ### 🤝 Let's Connect!
 - [LinkedIn] (https://www.linkedin.com/in/devashree-buch/)
-- 📍 Based in: San Diego, CA (Open to Remote)
+- 📍 Based in: San Diego, CA (Open to Onsite)
